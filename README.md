@@ -40,19 +40,19 @@ The United States remains the most resilient market, demonstrating stronger cust
 
 ### 1. Revenue Trend Analysis
 Monthly time-series analysis reveals a volatile sawtooth pattern ending in a sharp revenue collapse in Q1 2025, reinforcing the hypothesis of a systemic disruption.
-![Revenue Trend](https://github.com/tjav99/sales-analyzer/blob/main/data_analytics_pro/E-Commerce%20Strategic%20Analysis%20and%20Customer%20RFM%20Segmentation/Total%20Revenue%20By%20Months.png)
+![Revenue Trend](https://github.com/tamari-javakhishvili/ecommerce-revenue-collapse-analysis/blob/main/Total%20Revenue%20By%20Months.png)
 
 ### 2. Customer Value Matrix
 RFM-based scatter analysis confirms a strong relationship between frequency and monetary value, while also exposing a large concentration of previously high-spending customers now classified as **At Risk**.
-![Customer Value Matrix](https://github.com/tjav99/sales-analyzer/blob/main/data_analytics_pro/E-Commerce%20Strategic%20Analysis%20and%20Customer%20RFM%20Segmentation/Frequency%20vs%20Monetary.png)
+![Customer Value Matrix](https://github.com/tamari-javakhishvili/ecommerce-revenue-collapse-analysis/blob/main/Frequency%20vs%20Monetary.png)
 
 ### 3. AI-Based Clustering
 K-Means clustering segmented customers into four behavioral groups based on Recency, Frequency, and Monetary value. One cluster represents high historical value combined with declining engagement, posing the highest retention risk.
-![AI Clusters](https://github.com/tjav99/sales-analyzer/blob/main/data_analytics_pro/E-Commerce%20Strategic%20Analysis%20and%20Customer%20RFM%20Segmentation/ai_clusters.png)
+![AI Clusters](https://github.com/tamari-javakhishvili/ecommerce-revenue-collapse-analysis/blob/main/ai_clusters.png)
 
 ### 4. Market-Specific Risk Distribution
 This visualization highlights why Germany requires immediate attention, showing a disproportionate number of high-value customers transitioning into the "At Risk" category compared to other regions.
-![Customer Segmentation By Country](https://github.com/tjav99/sales-analyzer/blob/main/data_analytics_pro/E-Commerce%20Strategic%20Analysis%20and%20Customer%20RFM%20Segmentation/Customer%20Segmentation%20By%20Country.png)
+![Customer Segmentation By Country](https://github.com/tamari-javakhishvili/ecommerce-revenue-collapse-analysis/blob/main/Customer%20Segmentation%20By%20Country.png)
 
 ---
 
